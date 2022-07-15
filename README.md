@@ -4,7 +4,7 @@
 ![assembled](4x6.png)
 # Btmnfld
 
-Pronounced "btmnfld".
+Pronounced "batmanfold".
 Much credit to original creator Solidhal: https://github.com/SolidHal/btrfld
 
 ## Features common to original btrfld
